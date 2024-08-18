@@ -51,8 +51,8 @@ const Index = () => {
               <div className="col-lg-5 offset-lg-1 order-lg-2 col-10 offset-1 order-1">
                 <div className="hero-image">
                   <div className="feature-section-image">
-                    <img src={feature_image_1} className="image" alt="feature image" />
-                    <img src={feature_phone_1} className="phone" alt="feature phone" />
+                    <img src={feature_image_1} className="image" alt="Feature of the product" />
+                    <img src={feature_phone_1} className="phone" alt="Phone displaying the feature" />
                     <div className="background-pattern background-pattern-radius">
                       <BackgroundAnimation />
                       <div className="background-pattern-gradient"></div>

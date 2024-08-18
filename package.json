@@ -1,7 +1,7 @@
 {
   "name": "orions-react-demo-1",
   "version": "0.1.0",
-  "homepage": "https://tainguyencoder.github.io/orions-react-demo3",
+  "homepage": "http://gfxpartner.com/orions-react/demo-3",
   "private": true,
   "dependencies": {
     "@popperjs/core": "^2.11.0",
@@ -22,7 +22,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "CI=false react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
